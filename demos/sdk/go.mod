@@ -1,4 +1,4 @@
-module github.com/edgenda/100-dodeva-31-demos-golang
+module github.com/edgenda/100-dodeva-31-demos-golang/sdk
 
 go 1.14
 
