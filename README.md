@@ -16,7 +16,7 @@ To build the demo:
 
 ````bash
 ➜  100-dodeva-31-demos-golang git:(demo_1) ✗ cd demos/sdk
-➜  sdk git:(demo_1) ✗ go get && go build -o app.out
+➜  sdk git:(demo_1) ✗ go build -o app.out
 ````
 
 To run the demo:
