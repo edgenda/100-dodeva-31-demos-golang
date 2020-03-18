@@ -6,12 +6,6 @@ GoLang based demos for Developping on AWS course
 ### Demo 1 : Introduction to the AWS SDK for GoLang
 This demo demonstrates how simple it is to load the AWS SDK and start operating on services.
 
-To load this demo: 
-
-````bash
-git checkout demo_1
-````
-
 To build the demo:
 
 ````bash
@@ -41,12 +35,6 @@ To run the demo:
 
 ### Demo 2 : Use IAM and S3 together
 This demo demonstrates how simple to use S3 and IAM services to accomplish some tasks. In its initial form, it creates a bucket following {prefix}-{account number}-{region} pattern
-
-To load this demo: 
-
-````bash
-git checkout demo_2
-````
 
 To build the demo:
 
